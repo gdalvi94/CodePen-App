@@ -1,3 +1,5 @@
+![Screenshot 2023-08-17 130812](https://github.com/gdalvi94/CodePen-App/assets/66545665/6c06018c-c0d9-403e-9267-548c2a0c7484)
+
 # CodePen App
 
 CodePen App is a simple code editor built using React, allowing users to write and test HTML, CSS, and JavaScript code seamlessly.
